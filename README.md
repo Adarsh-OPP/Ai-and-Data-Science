@@ -9,7 +9,7 @@ Welcome to my collection of AI and Data Science projects! Each project showcases
 Analyze the spread and trend of COVID-19 cases in India with interactive visualizations.
 - 📅 Time-series analysis of daily cases
 - 🗺️ State-wise comparison and trends
-- 📈 Plots using Matplotlib & Seaborn
+- 📈 Plots using Matplotlib
 - 🧹 Data cleaning from raw CSV files
 
 ---
@@ -18,7 +18,7 @@ Analyze the spread and trend of COVID-19 cases in India with interactive visuali
 A complete exploratory analysis of student exam scores to find factors influencing performance.
 - 🧠 Correlation between parental education and student scores
 - 📊 Gender-wise performance visualization
-- 🛠️ Used Pandas, Matplotlib, and Seaborn
+- 🛠️ Used Numpy, Pandas and Matplotlib
 
 ---
 
@@ -27,15 +27,14 @@ Focused on core data preprocessing techniques for clean and reliable machine lea
 - 🔍 Handling missing values
 - 🔁 Encoding categorical variables
 - 🧼 Normalization & scaling
-- 🧠 Feature selection for ML
 
 ---
 
 ## 📚 [Page Recommender using Data Analysis](https://github.com/Adarsh-OPP/Pages_recommender_using_data_analysis)
 Built a basic content recommender system using user behavior and page analytics.
-- 👥 Analyzed user interaction patterns
+- 👥 My first Data Sciece project
 - 🤖 Basic recommendation logic
-- 📈 Data insights & visualization
+- 
 
 ---
 
