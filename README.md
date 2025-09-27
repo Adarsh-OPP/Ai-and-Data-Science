@@ -5,6 +5,16 @@ Welcome to my collection of AI and Data Science projects! Each project showcases
 
 ---
 
+## 🏠 [House Price Prediction Model](https://github.com/Adarsh-OPP/Calafornia_house_price_model)
+Predict median house prices in California using machine learning techniques.
+- 🧹 Data cleaning and preprocessing from raw CSV files
+- 🏗️ Feature engineering and transformation
+- 📊 Visualization of feature distributions and correlations
+- 🤖 Regression modeling using Random Forest
+- 📈 Evaluate and predict housing prices with trained models
+
+---
+
 ## 🦠 [COVID-19 India Data Analysis](https://github.com/Adarsh-OPP/COVID-19-India-Data-Analysis-with-visualization)
 Analyze the spread and trend of COVID-19 cases in India with interactive visualizations.
 - 📅 Time-series analysis of daily cases
