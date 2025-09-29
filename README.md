@@ -5,6 +5,17 @@ Welcome to my collection of AI and Data Science projects! Each project showcases
 
 ---
 
+## 🫀 [Heart Disease Prediction Model](https://github.com/Adarsh-OPP/Heart_disease_prediction)  
+Predict the presence of heart disease using machine learning techniques.  
+
+- 🧹 Data cleaning and preprocessing from raw CSV files  
+- 🏗️ Feature engineering and transformation  
+- 📊 Visualization of feature distributions and correlations  
+- 🤖 Classification modeling using scikit-learn  
+- 📈 Evaluate and predict heart disease risk with trained models  
+
+---
+
 ## 🏠 [House Price Prediction Model](https://github.com/Adarsh-OPP/Calafornia_house_price_model)
 Predict median house prices in California using machine learning techniques.
 - 🧹 Data cleaning and preprocessing from raw CSV files
