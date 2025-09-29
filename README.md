@@ -10,7 +10,7 @@ Predict the presence of heart disease using machine learning techniques.
 
 - 🧹 Data cleaning and preprocessing from raw CSV files  
 - 🏗️ Feature engineering and transformation  
-- 📊 Visualization of feature distributions and correlations  
+- 📊 94% Accuracy on test set
 - 🤖 Classification modeling using scikit-learn  
 - 📈 Evaluate and predict heart disease risk with trained models  
 
