@@ -5,6 +5,20 @@ Welcome to my collection of AI and Data Science projects! Each project showcases
 
 ---
 
+## 🩺 [Pneumonia Detection from Chest X-Ray Images](https://github.com/Adarsh-OPP/Pneumonia_predition_by_xray_image)  
+Deep-learning based classification system to detect Pneumonia from chest X-ray images.
+
+- 🧹 Complete dataset preparation, restructuring, and balancing  
+- 🩻 Medical-safe data augmentation for robust generalization  
+- ⚙️ Transfer learning using EfficientNetB0 backbone  
+- 🧠 Custom classification head optimized for medical imaging  
+- 📊 Achieved ~90% accuracy on test set  
+- 🤖 Trained and exported model in modern `.keras` format for deployment  
+
+---
+
+---
+
 ## 🫀 [Heart Disease Prediction Model](https://github.com/Adarsh-OPP/Heart_disease_prediction)  
 Predict the presence of heart disease using machine learning techniques.  
 
