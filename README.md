@@ -2,6 +2,19 @@
 # 📊 AI & Data Science Projects
 
 Welcome to my collection of AI and Data Science projects! Each project showcases my skills in data analysis, visualization, and applying machine learning techniques to real-world datasets.
+---
+
+## 🐍 [Snake agent which play game itself](https://github.com/Adarsh-OPP/snake-rl-agent)  
+Deep Reinforcement Learning agent that learns to play the classic Snake game autonomously.
+
+- 🎮 Custom Snake environment built using Pygame
+- 🧠 Deep Q-Learning (DQN) architecture with experience replay 
+- ♻️ Long-term and short-term memory training loops
+- ⚙️ Neural network model using PyTorch with adjustable hidden layers
+- 📊 Real-time training visualization of scores and mean scores 
+- 💾 Automatic model saving when a new high score is reached
+
+---
 
 ---
 
