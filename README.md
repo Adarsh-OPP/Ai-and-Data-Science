@@ -40,39 +40,6 @@ Predict median house prices in California using machine learning techniques.
 
 ---
 
-## 🦠 [COVID-19 India Data Analysis](https://github.com/Adarsh-OPP/COVID-19-India-Data-Analysis-with-visualization)
-Analyze the spread and trend of COVID-19 cases in India with interactive visualizations.
-- 📅 Time-series analysis of daily cases
-- 🗺️ State-wise comparison and trends
-- 📈 Plots using Matplotlib
-- 🧹 Data cleaning from raw CSV files
-
----
-
-## 🎓 [Student Performance Analysis](https://github.com/Adarsh-OPP/Student-Performance-Analysis)
-A complete exploratory analysis of student exam scores to find factors influencing performance.
-- 🧠 Correlation between parental education and student scores
-- 📊 Gender-wise performance visualization
-- 🛠️ Used Numpy, Pandas and Matplotlib
-
----
-
-## ⚙️ [Data Preprocessing Project](https://github.com/Adarsh-OPP/data-preprocessing-project)
-Focused on core data preprocessing techniques for clean and reliable machine learning inputs.
-- 🔍 Handling missing values
-- 🔁 Encoding categorical variables
-- 🧼 Normalization & scaling
-
----
-
-## 📚 [Page Recommender using Data Analysis](https://github.com/Adarsh-OPP/Pages_recommender_using_data_analysis)
-Built a basic content recommender system using user behavior and page analytics.
-- 👥 My first Data Sciece project
-- 🤖 Basic recommendation logic
-- 
-
----
-
 ### 🚀 More coming soon!
 I'm actively building more projects as I learn — follow me to stay updated!
 
